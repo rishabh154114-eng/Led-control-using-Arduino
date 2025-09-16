@@ -1,7 +1,7 @@
-# Led-control-using-Arduino
-Name :Rishabh srivatsav
-Reg No : 25001966
 
+Name :Rishabh srivatsav</br>
+Reg No : 25001966 </br>
+Ex 1 # Led-control-using-Arduino
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
 
@@ -60,7 +60,8 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-![Screenshot 2024-09-02 114142](https://github.com/user-attachments/assets/2434baf8-e862-4778-86df-4aa24cb58b68)
+<img width="1200" height="798" alt="image" src="https://github.com/user-attachments/assets/08ea5b10-ae04-45f0-ba15-90a2df1d2f03" />
+
 
 ## PROGRAM
 void setup()</br>
